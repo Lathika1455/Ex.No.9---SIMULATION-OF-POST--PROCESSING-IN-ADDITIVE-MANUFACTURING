@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 19.11.25
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,21 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+## SUPPORT REMOVAL
 
-### Name:
-### Register Number:
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/b22fc173-4a80-4808-9cef-30be7f20b749" />
+
+## UV CURING
+
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/921ded78-d9a2-4d92-8300-1179e2535905" />
+
+## HEAT TREATMENT
+
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/b631b1cc-800d-496e-a98c-81e112ff72c0" />
+
+
+### Name: LATHIKA SREE 
+### Register Number: 212224040169
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
